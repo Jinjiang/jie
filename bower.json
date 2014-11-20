@@ -1,0 +1,12 @@
+{
+  "name": "jie",
+  "version": "0.0.1",
+  "dependencies": {
+    "jie-icon": "Jinjiang/jie-icon",
+    "jie-btn": "Jinjiang/jie-btn",
+    "jie-menu": "Jinjiang/jie-menu",
+    "jie-mask": "Jinjiang/jie-mask",
+    "jie-dropdown": "Jinjiang/jie-dropdown",
+    "jie-btn-group": "Jinjiang/jie-btn-group"
+  }
+}
