@@ -3,14 +3,19 @@
   "version": "0.0.1",
   "dependencies": {
     "jie-icon": "Jinjiang/jie-icon",
+    "jie-tag": "Jinjiang/jie-tag",
+    "jie-rmb": "Jinjiang/jie-rmb",
+    "jie-time": "Jinjiang/jie-time",
     "jie-btn": "Jinjiang/jie-btn",
     "jie-menu": "Jinjiang/jie-menu",
     "jie-mask": "Jinjiang/jie-mask",
     "jie-dropdown": "Jinjiang/jie-dropdown",
     "jie-btn-group": "Jinjiang/jie-btn-group",
+    "jie-progress": "Jinjiang/jie-progress",
     "jie-nav": "Jinjiang/jie-nav",
     "jie-panel": "Jinjiang/jie-panel",
     "jie-breadcrumb": "Jinjiang/jie-breadcrumb",
-    "jie-pagination": "Jinjiang/jie-pagination"
+    "jie-pagination": "Jinjiang/jie-pagination",
+    "jie-dock": "Jinjiang/jie-dock"
   }
 }
